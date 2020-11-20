@@ -17,3 +17,4 @@
   - 2.
 
 [LINK TEST](https://google.com)
+[SCRIPT TEST](javasciprt:alert('testmessage');)
