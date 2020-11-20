@@ -2,7 +2,11 @@
 ----------
 ## Mark down File Practice.
 
-*이탤릭효과*
+*italic*
+_italic_
+**bold**
+__bold__
+~~cancleline~~
 
 * Item list
   - item1
