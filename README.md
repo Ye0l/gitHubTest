@@ -2,7 +2,7 @@
 ----------
 ## Mark down File Practice.
 
-- italic*
+- *italic*
 - _italic_
 - **bold**
 - __bold__
